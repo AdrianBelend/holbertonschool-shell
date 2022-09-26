@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ta | head -n10
+sort -mindepth -rn | head -10
