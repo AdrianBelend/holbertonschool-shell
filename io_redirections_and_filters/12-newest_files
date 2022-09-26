@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -mindepth -rn | head -10
+sort -rn | head -10
